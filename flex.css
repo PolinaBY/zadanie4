@@ -91,6 +91,11 @@ tr.even
   flex-direction: column;
 }
 @media screen and (min-width: 1224px){
+  #logo 
+{
+  margin-right: 240px;
+  margin-left: 240px;
+  }
 .menu
 {
   display: flex;
