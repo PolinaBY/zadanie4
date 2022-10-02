@@ -4,7 +4,10 @@ html,body
 }
 #line 
 {
+   display: flex;
   background-color: #228b22;
+  align-items: center;
+  justify-content: center;
   color: #ffffff;
   font-size: 60px;
 }
