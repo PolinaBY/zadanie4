@@ -4,11 +4,7 @@ html,body
 }
 #line 
 {
-  display: flex;
   background-color: #228b22;
-  flex-grow: 1;
-  flex-direction: row-reverse;
-  justify-content: flex-end;
   color: #ffffff;
   font-size: 60px;
 }
