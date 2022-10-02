@@ -13,11 +13,9 @@ html,body
 }
 .footer
 {
-  display: flex;
   background-color: #228b22;
   color: #ffffff;
   margin-top: 20px;
-  flex-grow: 1;
 }
 table 
 {
