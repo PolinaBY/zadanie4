@@ -44,12 +44,6 @@ tr.even
 {
   background: #e2f8d7;
 }
-#logo 
-{
-  display: flex;
-  justify-content: flex-start;
-  margin-right: 250px;
-  }
 .menu
 {
   display: flex;
@@ -97,12 +91,6 @@ tr.even
   flex-direction: column;
 }
 @media screen and (min-width: 1224px){
-#logo 
-{
-  float: left;
-  margin-right: 240px;
-  margin-left: 240px;
-  }
 .menu
 {
   display: flex;
