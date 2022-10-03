@@ -46,10 +46,8 @@ tr.even
 .menu
 {
   display: flex;
-  background-color: #f8f8ff;
   margin-top: 20px;
   flex-direction: column;
-  flex-grow: 1;
   list-style-type: none;
   justify-content: center;
 }
@@ -98,7 +96,6 @@ tr.even
 .menu
 {
   display: flex;
-  background-color: #f8f8ff;
   flex-direction: row;
   margin-left: 50px;
   margin-left: 240px;
