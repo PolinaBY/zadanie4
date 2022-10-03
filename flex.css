@@ -4,9 +4,6 @@ html,body
 }
 #line 
 {
-  display: flex;
-  align-items: center;
-  justify-content: center;
   color: #ffffff;
   font-size: 60px;
 }
@@ -88,11 +85,6 @@ tr.even
   flex-direction: column;
 }
 @media screen and (min-width: 1224px){
-  #logo 
-{
-  margin-right: 240px;
-  margin-left: 240px;
-  }
 .menu
 {
   display: flex;
