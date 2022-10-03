@@ -69,21 +69,4 @@ tr.even
   margin-right: 80px;
   text-align: center;
 } 
-.silki
-{
-  display: flex;
-  flex-basis: auto;
-  flex-direction: column;
-}
-  .tableandform
-{
-  display: flex;
-  flex-direction: column;
-}
-.table
-{
-  display: flex;
-  background-color: #f8f8ff;
-  flex-direction: column;
-}
 }
