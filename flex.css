@@ -11,7 +11,6 @@ html,body
 {
   background-color: #228b22;
   color: #ffffff;
-  margin-top: 20px;
 }
 table 
 {
@@ -45,34 +44,13 @@ tr.even
   display: flex;
   margin-top: 20px;
   flex-direction: column;
-  list-style-type: none;
-  justify-content: center;
 }
 .menu li
 {
   list-style-type: none;
 }
-  .silki
-{
-  display: flex;
-  flex-basis: auto;
-  flex-direction: column;
-}
-.tableandform
-{
-  display: flex;
-  flex-direction: column;
-}
 .table
 {
-  margin-top: 20px;
-  display: flex;
-  flex-basis: auto;
-  flex-direction: column;
-}
-.forma
-{
-  margin-top: 20px;
   display: flex;
   flex-basis: auto;
   flex-direction: column;
@@ -80,7 +58,6 @@ tr.even
 @media screen and (min-width: 1224px){
 .menu
 {
-  margin-top: 20px;
   display: flex;
   flex-direction: row;
 }
@@ -105,18 +82,8 @@ tr.even
 }
 .table
 {
-  margin-top: 20px;
   display: flex;
   background-color: #f8f8ff;
-  flex-basis: auto;
-  flex-direction: column;
-}
-.forma
-{
-  margin-top: 20px;
-  display: flex;
-  background-color: #f8f8ff;
-  flex-basis: auto;
   flex-direction: column;
 }
 }
