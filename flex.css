@@ -55,9 +55,7 @@ tr.even
   .silki
 {
   display: flex;
-  background-color: #f8f8ff;
   flex-basis: auto;
-  flex-grow: 1;
   flex-direction: column;
 }
 .tableandform
@@ -69,29 +67,22 @@ tr.even
 {
   margin-top: 20px;
   display: flex;
-  background-color: #f8f8ff;
   flex-basis: auto;
-  flex-grow: 1;
   flex-direction: column;
 }
 .forma
 {
   margin-top: 20px;
   display: flex;
-  background-color: #f8f8ff;
   flex-basis: auto;
-  flex-grow: 1;
-  order: -1;
   flex-direction: column;
 }
 @media screen and (min-width: 1224px){
 .menu
 {
+  margin-top: 20px;
   display: flex;
   flex-direction: row;
-  margin-left: 50px;
-  margin-left: 240px;
-  margin-right: 240px;
 }
 .menu a
 {
@@ -104,10 +95,7 @@ tr.even
 .silki
 {
   display: flex;
-  background-color: #f8f8ff;
   flex-basis: auto;
-  margin-left: 240px;
-  margin-right: 240px;
   flex-direction: column;
 }
   .tableandform
@@ -121,10 +109,7 @@ tr.even
   display: flex;
   background-color: #f8f8ff;
   flex-basis: auto;
-  margin-left: 240px;
-  margin-right: 240px;
   flex-direction: column;
-  order: -1;
 }
 .forma
 {
@@ -132,8 +117,6 @@ tr.even
   display: flex;
   background-color: #f8f8ff;
   flex-basis: auto;
-  margin-left: 240px;
-  margin-right: 240px;
   flex-direction: column;
 }
 }
