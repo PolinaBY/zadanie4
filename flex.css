@@ -40,9 +40,7 @@ tr.even
 }
 .menu
 {
-  display: flex;
   margin-top: 20px;
-  flex-direction: column;
 }
 .menu li
 {
@@ -60,17 +58,4 @@ tr.even
   color: #ffffff;
   font-size: 60px;
 }
-.menu
-{
-  display: flex;
-  flex-direction: row;
-}
-.menu a
-{
-  list-style-type: none;
-  display: inline-block;
-  float: left;
-  margin-right: 80px;
-  text-align: center;
-} 
 }
