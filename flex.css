@@ -54,10 +54,7 @@ tr.even
 }
   .menu a
 {
-  list-style-type: none;
-  display: inline-block;
   float: left;
   margin-right: 80px;
-  text-align: center;
 } 
 }
