@@ -52,4 +52,12 @@ tr.even
   color: #ffffff;
   font-size: 60px;
 }
+  .menu a
+{
+  list-style-type: none;
+  display: inline-block;
+  float: left;
+  margin-right: 80px;
+  text-align: center;
+} 
 }
